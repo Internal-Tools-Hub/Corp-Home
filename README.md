@@ -1,4 +1,4 @@
-# CorpHome
+# Corp Home
 
 Coming Soon:
 
